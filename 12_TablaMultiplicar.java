@@ -1,4 +1,4 @@
-public class main {
+public class TablasMultiplicar {
     public static void main(String args[]){
         int numero = 5;
         int multiplicador = 1;
