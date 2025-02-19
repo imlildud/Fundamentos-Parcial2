@@ -1,4 +1,4 @@
-public class main {
+public class CalculoDeRadio {
     public static void main(String args[]){
         
         int radio = 5;
