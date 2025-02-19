@@ -1,6 +1,6 @@
 import static java.lang.Math.*;
 
-public class main {
+public class MathClass {
     public static void main(String[] args) {
         System.out.println("*********************************");
         System.out.println("¿Que pasa?, no mundo hoy no te voy a saludar");
