@@ -1,4 +1,4 @@
-public class main {
+public class ConversorDias {
     public static void main(String[] args) {
 
         int dias = 947;
