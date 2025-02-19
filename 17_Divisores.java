@@ -1,4 +1,4 @@
-public class main {
+public class Divisores {
     public static void main(String[] args) {
 
         int x = 33;
