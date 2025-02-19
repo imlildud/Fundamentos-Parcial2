@@ -1,4 +1,4 @@
-public class main {
+public class CalculoDeCumple {
     public static void main(String[] args) {
 
         int dia = 12;
