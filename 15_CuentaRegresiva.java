@@ -1,4 +1,4 @@
-public class main {
+public class CuentaRegresiva {
     public static void main(String[] args) {
 
         int n = 30;
