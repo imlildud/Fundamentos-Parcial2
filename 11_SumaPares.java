@@ -1,4 +1,4 @@
-public class main {
+public class SumaPares {
     public static void main(String args[]){
         int x = 0;
         int contador = 0;
