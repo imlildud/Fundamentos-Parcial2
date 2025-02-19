@@ -1,4 +1,4 @@
-public class main {
+public class NumALetra {
     public static void main(String[] args) {
         
         int x = 78;
