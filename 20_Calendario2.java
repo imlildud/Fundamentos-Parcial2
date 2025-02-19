@@ -1,4 +1,4 @@
-public class main {
+public class Calendario2 {
     public static void main(String[] args) {
         
         int dias = 9;
