@@ -1,4 +1,4 @@
-public class main {
+public class InvetirDigitos {
     public static void main(String[] args) {
 
         int x = 562;
