@@ -1,4 +1,4 @@
-public class main {
+public class PromedioCalificaciones {
     public static void main(String[] args) {
 
         int ca1= 9, ca2= 6, ca3= 5, ca4= 10;
