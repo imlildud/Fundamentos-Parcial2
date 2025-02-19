@@ -1,4 +1,4 @@
-public class main {
+public class Digitos {
     public static void main(String[] args) {
 
         int x = 456;
