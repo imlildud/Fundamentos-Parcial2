@@ -1,4 +1,4 @@
-public class main {
+public class Horas {
     public static void main(String[] args) {
 
         int seg = 83;
