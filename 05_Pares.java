@@ -1,4 +1,4 @@
-public class main {
+public class Pares {
     public static void main(String args[]){
         
         int a = 8;
