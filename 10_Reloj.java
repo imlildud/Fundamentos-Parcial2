@@ -1,4 +1,4 @@
-public class main {
+public class Reloj {
     public static void main(String args[]){
         
         int hora_reloj = 11;
