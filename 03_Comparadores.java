@@ -1,4 +1,4 @@
-public class main {
+public class Comparadores {
     public static void main(String args[]){
         
         int a = 20;
